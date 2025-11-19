@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/5f/52/51/5f5251d8672af7e54d83614f28f737d5.gif" width="700"/>
 </p>
 
-<h1 align="center">⚔️ Hari • Chaos Engineer • ML Alchemist • Terminal Samurai ⚔️</h1>
+<h1 align="center">⚔️Hari • Chaos Engineer • ML Alchemist • Terminal Samurai⚔️</h1>
 
 <p align="center">
   <i>Matrix-coded curiosity • AI • Cyber energy • Building at warp-speed</i>
