@@ -41,28 +41,6 @@ I like:
 
 ---
 
-## 💻 Hacker Activity Dashboard (Glitch Mode)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-hari-haran&show_icons=true&theme=matrix" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hari-haran&layout=compact&theme=matrix" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=s-hari-haran&theme=matrix" />
-</p>
-
----
-
-## 💚 Matrix Divider (Sexy Glitch Edition)
-<p align="center">
-  <img src="https://i.pinimg.com/originals/95/71/5f/95715f97e2e5f0c2f03ee05b0c629fca.gif" width="700"/>
-</p>
-
----
-
 ## 🕹️ Contact Terminal
 **LinkedIn:** https://linkedin.com/in/real-hari-haran  
 **Email:** shariharan9510@gmail.com
